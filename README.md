@@ -1,2 +1,4 @@
 # UTS-PAM
- Hafizh Londata
+ Nama : Hafizh Londata
+ NIM : 119140049
+ kelas : RB
